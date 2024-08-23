@@ -7,7 +7,7 @@ function check_prime() {
     }  
  }
     
-num=21;
+num=7;
 check_prime();
 
 
